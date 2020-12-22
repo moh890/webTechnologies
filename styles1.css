@@ -1,0 +1,31 @@
+table,th,td{
+    border: 1px solid black;
+}
+
+h1,h2,b,i{
+    color: red;
+}
+
+.ull{
+    color: red;
+}
+
+#location, label{
+    color: blue;
+}
+
+#topic{
+    color: red;
+}
+
+input[type="text"], input[type="email"] {
+    color: red;
+}
+
+a[href="https://twitter.com/"]{
+    color: red;
+}
+
+#fb,#flicker{
+    color: blue;
+}
