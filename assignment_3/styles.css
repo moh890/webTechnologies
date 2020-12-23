@@ -1,0 +1,17 @@
+#content {
+    width: 700px;
+    margin: auto;
+    border: 3px solid brown;
+    background-color: antiquewhite;
+    padding: 10px;
+}
+
+img {
+    border: 6px solid brown;
+}
+
+#para {
+    border: 6px dashed brown;
+    padding: 5px;
+    margin-top: 20px;
+}

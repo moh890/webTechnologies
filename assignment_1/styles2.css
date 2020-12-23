@@ -1,25 +1,36 @@
-table,th,td{
+table,
+th,
+td {
     border: 1px solid black;
 }
 
-h1,h2{
+h1,
+h2 {
     color: red;
 }
 
-b,i{
+b,
+i {
     text-decoration: underline;
     font-size: 150%;
 }
 
-input[type="text"], input[type="email"] {
+input[type="text"],
+input[type="email"] {
     background-color: red;
 }
-#fb,#flicker{
+
+#fb,
+#flicker {
     color: blue;
 }
 
-a[href="https://twitter.com/"]{
+a[href="https://twitter.com/"] {
     color: rgb(0, 217, 255);
     font-weight: bolder;
     text-shadow: 1px 1px rgb(0, 217, 255);
+}
+
+label {
+    font-weight: bold;
 }
